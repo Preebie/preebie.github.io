@@ -1,10 +1,4 @@
 absl-py==1.0.0
-Adafruit-Blinka==7.0.0
-adafruit-circuitpython-busdevice==5.1.7
-adafruit-circuitpython-mcp4725==1.4.5
-adafruit-circuitpython-typing==1.0.0
-Adafruit-PlatformDetect==3.19.6
-Adafruit-PureIO==1.1.9
 astunparse==1.6.3
 attrs==19.3.0
 Automat==0.8.0
@@ -13,7 +7,6 @@ cachetools==5.0.0
 certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
-cloud-init==21.2
 colorama==0.4.3
 command-not-found==0.3
 configobj==5.0.6
